@@ -1,2 +1,2 @@
-# gometalinterimage
-Docker image for the gometalinter app
+# gometalinter image
+[Docker](http://www.docker.com) image for the [gometalinter](https://github.com/alecthomas/gometalinter).
