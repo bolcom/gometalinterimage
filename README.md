@@ -4,7 +4,7 @@
 The published docker image can be found at https://hub.docker.com/r/dockerbolcom/gometalinterimage/
 
 ### Usage
-This bash script shows how the image can be used to lint your code. Note that this example assumes the project has [vendored](https://blog.gopheracademy.com/advent-2015/vendor-folder/) all it's dependencies (ie it doesn't need anything outside of the project directory expect the go installation).
+This bash script shows how the image can be used to lint your code. Note that this example assumes the project has [vendored](https://blog.gopheracademy.com/advent-2015/vendor-folder/) all it's dependencies (ie it doesn't need anything outside of the project directory except the go installation).
 
 ```bash
 #!/bin/bash
