@@ -1,4 +1,4 @@
-FROM golang:1.7.1-alpine
+FROM golang:1.9.2-alpine3.6
 
 # Install git
 RUN apk add --update git && rm -rf /var/cache/apk/*
